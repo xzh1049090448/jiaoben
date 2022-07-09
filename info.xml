@@ -1,0 +1,31 @@
+<daxiang>
+	<SetInfo setId="123456" name="娱乐">
+		<InfoItem infoId="00001" type="PythonItem" associate="0">
+			<name>云顶0</name>
+			<description>LOL0</description>
+			<path1>C:/dasdsa/ad</path1>
+			<path2>dadsa</path2>
+		</InfoItem>
+
+		<InfoItem infoId="00002" type="PythonItem" associate="0">
+			<name>云顶1</name>
+			<description>LOL1</description>
+			<path1>C:/dasdsa/ad</path1>
+			<path2>dadsa</path2>
+		</InfoItem>
+	</SetInfo>
+
+	<SetInfo setId="1234567" name="娱乐1">
+		<InfoItem infoId="00003" type="PythonItem" associate="0">
+			<name>云顶2</name>
+			<description>LOL2</description>
+			<path1>C:/dasdsa/ad</path1>
+			<path2>dadsa</path2>
+		</InfoItem>
+
+		<InfoItem infoId="00004" type="PythonItem" associate="0">
+			<name>云顶3</name>
+			<description>LOL3</description>
+		</InfoItem>
+	</SetInfo>
+</daxiang>
